@@ -4,26 +4,31 @@ body {
 	text-align: left;
 	width: 100%;
 	background-color: #ffffff;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-ul {
+ul.menu {
 	list-style-type: none;
   	margin: 0;
   	padding: 0;
   	overflow: hidden;
   	background-color: #dddddd;
-  	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-li {
-	float: left;
+ul.menu li {
+    float: left;
+}
+
+.courses {
+    margin: 2em 16em;
+    color: #404040;
 }
 
 a.nav {
 	display: block;
 	color: black;
 	text-align: center;
-  	padding: 8px;
+  	padding: 1em;
 	text-decoration: none;
 }
 
@@ -35,40 +40,29 @@ li a:hover {
 	color: white;
 }
 
-h1, h2, h3 {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+h1 {
 	text-align: center;
-  	margin: 20px 0px;
+  	margin: 1.5em 0;
+}
+
+h2 {
+	text-align: left;
+	margin: 1em 0;
+    color: #404040;
 }
 
 p {
-	margin: 1em 12em;
+	margin: 0.8em 12em;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	text-align: left;
     color: #404040;
 }
 
-.copyright {
-  	width: 100%; 
-	color: black;
-	text-align: center;
-  	padding: 8px;
-	text-decoration: none;
-  	margin: 0 auto;
-}
-
-h1, h2, h3 {
-  	margin: 2em;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	text-align: center;
-}
-
-
 .main {
 	display: inline;
-	padding: 250px 0;
-	margin: 30px;
+	padding: 20em 0;
+	margin: 2em;
     min-height: 100%;
 }
 
@@ -93,10 +87,6 @@ a.main:hover {
     }
 }
 
-* {
-margin: 0;
-}
-
 html, body {
     height: 100%
 }
@@ -106,8 +96,4 @@ html, body {
     height: auto !important;
     height: 100%;
     margin: 0 auto -4em;
-}
-
-.footer, .push {
-    height: 4em;
 }
