@@ -52,16 +52,16 @@ h2 {
 }
 
 p {
-	margin: 0.8em 12em;
+    margin: 0.8em 4em;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 18px;
+	font-size: 1em;
 	text-align: left;
     color: #404040;
 }
 
 .main {
 	display: inline;
-	padding: 20em 0;
+	padding: 2em 0;
 	margin: 2em;
     min-height: 100%;
 }
