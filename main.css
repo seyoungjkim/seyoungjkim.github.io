@@ -19,11 +19,6 @@ ul.menu li {
     float: left;
 }
 
-.courses {
-    margin: 2em 16em;
-    color: #404040;
-}
-
 a.nav {
 	display: block;
 	color: black;
@@ -52,7 +47,7 @@ h2 {
 }
 
 p {
-    margin: 0.8em 4em;
+    margin: 0.8em 3em;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 1em;
 	text-align: left;
@@ -74,21 +69,6 @@ a {
 
 a.main:hover {
 	color: #8080ff;
-}
-
-@media screen and (min-width: 480px) {
-    #nav, #main, #copyright {
-    	float: none;
-    	width: auto;
-    	height: auto;
-    }
-    p {
-    	font-size: 20px;
-    }
-}
-
-html, body {
-    height: 100%
 }
 
 .wrapper {
