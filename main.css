@@ -1,8 +1,8 @@
 body {
-	height: 100%;
 	margin: 0;
 	text-align: left;
 	width: 100%;
+	height: 100%;
 	background-color: #ffffff;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -17,11 +17,6 @@ ul.menu {
 
 ul.menu li {
     float: left;
-}
-
-.courses {
-    margin: 2em 16em;
-    color: #404040;
 }
 
 a.nav {
@@ -52,9 +47,9 @@ h2 {
 }
 
 p {
-    margin: 0.8em 4em;
+    margin: 0.8em 3em;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 1em;
+	font-size: 1.25em;
 	text-align: left;
     color: #404040;
 }
@@ -74,21 +69,6 @@ a {
 
 a.main:hover {
 	color: #8080ff;
-}
-
-@media screen and (min-width: 480px) {
-    #nav, #main, #copyright {
-    	float: none;
-    	width: auto;
-    	height: auto;
-    }
-    p {
-    	font-size: 20px;
-    }
-}
-
-html, body {
-    height: 100%
 }
 
 .wrapper {
