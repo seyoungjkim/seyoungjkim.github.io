@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>project on Seyoung Kim</title>
-    <link>seyoungjkim.github.io/tags/project/</link>
+    <link>https://seyoungjkim.github.io/tags/project/</link>
     <description>Recent content in project on Seyoung Kim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Seyoung Kim</copyright>
     <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="seyoungjkim.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seyoungjkim.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Website!</title>
-      <link>seyoungjkim.github.io/posts/new-website/</link>
+      <link>https://seyoungjkim.github.io/posts/new-website/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>seyoungjkim.github.io/posts/new-website/</guid>
+      <guid>https://seyoungjkim.github.io/posts/new-website/</guid>
       <description>The first version of this website was published in October 2017, the semester I started studying computer science. For some reason, a large number of college students who study computer science have personal websites (basically resumes, but shinier), so I got the idea I should make one too. Unfortunately, I had no idea what I was doing.
 Eventually I had created a basic website with a couple pages and a resume by slowly hand-coding some HTML and CSS files.</description>
     </item>
