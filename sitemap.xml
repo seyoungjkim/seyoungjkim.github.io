@@ -3,36 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://seyoungjkim.github.io/posts/new-website/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seyoungjkim.github.io/posts/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seyoungjkim.github.io/tags/project/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://seyoungjkim.github.io/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seyoungjkim.github.io/tags/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seyoungjkim.github.io/about/</loc>
   </url>
   
   <url>
     <loc>https://seyoungjkim.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://seyoungjkim.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://seyoungjkim.github.io/tags/</loc>
   </url>
   
 </urlset>
