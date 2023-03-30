@@ -1,0 +1,27 @@
+baseURL = "https://seyoungjkim.github.io/"
+languageCode = "en-us"
+title = "Seyoung Kim"
+theme = "archie"
+copyright = "© Seyoung Kim"
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate = 3 # articles per page
+
+[params]
+mode = "auto"
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/seyoungjkim"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/seyoungjkim"
