@@ -11,4 +11,5 @@ Previously, I played cello in a string quartet, performed stand-up comedy, and m
 
 # Writing
 * [McSweeney's Internet Tendency](https://www.mcsweeneys.net/authors/seyoung-kim)
+* [Hard Drive](https://hard-drive.net/author/seyoung-kim)
 * [Under the Button](https://www.underthebutton.com/staff/seyoung-kim)
