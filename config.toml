@@ -25,3 +25,13 @@ url = "https://github.com/seyoungjkim"
 name = "LinkedIn"
 icon = "linkedin"
 url = "https://linkedin.com/in/seyoungjkim"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/seyoungjkim"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://x.com/seyoungjkim"
