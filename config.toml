@@ -32,6 +32,6 @@ icon = "instagram"
 url = "https://www.instagram.com/seyoungjkim"
 
 [[params.social]]
-name = "Twitter"
+name = "X"
 icon = "twitter"
 url = "https://x.com/seyoungjkim"
