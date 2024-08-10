@@ -22,11 +22,6 @@ icon = "github"
 url = "https://github.com/seyoungjkim"
 
 [[params.social]]
-name = "LinkedIn"
-icon = "linkedin"
-url = "https://linkedin.com/in/seyoungjkim"
-
-[[params.social]]
 name = "Instagram"
 icon = "instagram"
 url = "https://www.instagram.com/seyoungjkim"
