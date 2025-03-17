@@ -7,7 +7,7 @@ date: 2024-08-10
 I'm Seyoung Kim, a comedy writer and performer based in Brooklyn, NY.
 
 ## Comedy
-I write and perform sketch for two teams. One is [Party Trick](https://magnettheater.com/ensembles/party-trick), a house team at the Magnet Theater. The team has been selected for festivals including Austin Sketch Fest, DC Sketchfest, Philly Sketchfest, and PackFest. The other is [Queer Window](https://www.instagram.com/queerwindow), an indie team that performs at several venues in NYC.
+I write and perform sketch with house teams at the Magnet Theater and indie team [Queer Window](https://www.instagram.com/queerwindow) at venues including the Upright Citizen's Brigade, Magnet Theater, Brooklyn Comedy Collective, and more. My festival credits include SF Sketchfest, Austin Sketch Fest, DC Sketchfest, Philly Sketchfest, and LA PackFest.
 
 I co-direct sketch for Magnet's [REMIX Diversity Sketch Lab](https://magnettheater.com/2024/08/01/remix-the-diversity-sketch-lab-2024).
 
@@ -23,7 +23,7 @@ I've been writing online satire and humor since college. Here are a few links to
 * [Under the Button](https://www.underthebutton.com/staff/seyoung-kim)
 
 ## Other
-I served on the programming committee for the [47th Asian American International Film Festival](https://www.aaiff.org).
+I serve on the programming committee for the [Asian American International Film Festival](https://www.aaiff.org).
 
 I played cello in a string quartet.
 
