@@ -9,8 +9,6 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate = 3 # articles per page
-
 [params]
 mode = "auto"
 
