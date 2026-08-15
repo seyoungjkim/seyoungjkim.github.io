@@ -44,3 +44,5 @@ I have 5+ years of experience as a software engineer.
 ## Contact
 - Email: seyoungjkim [at] gmail [dot] com
 - Instagram: [@seyoungjkim](https://www.instagram.com/seyoungjkim/)
+
+Chances are if you hit me up to collaborate on something comedy, writing, or film related, I will say yes!
