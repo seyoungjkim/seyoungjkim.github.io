@@ -4,21 +4,23 @@ draft: false
 date: 2026-08-19
 ---
 
-I'm Seyoung Kim, a comedy writer and performer based in Brooklyn, NY.
+{{< figure src=/images/headshot.jpg >}}
 
-## Comedy
-I write and perform sketch and improv comedy with [Queer Window](https://www.instagram.com/queerwindow), [The Slaysians](https://www.instagram.com/theslaysiansnyc), and [ELLIOTT SMECK](https://www.instagram.com/smeckprov/) at New York venues including the Upright Citizen's Brigade, Caveat, Brooklyn Comedy Collective, and the Lincoln Center one time. Previously I was on Magnet Theater house sketch teams [Milwaukee!](https://www.youtube.com/@milwaukeesketchcomedy) and [Party Trick](https://www.youtube.com/@PartyTrickSketchComedy). I've performed at festivals like San Francisco Sketchfest, DC Sketchfest, Philly Sketchfest, Del Close Marathon, and Fun and Dumb Improv Festival.
+I'm Seyoung Kim: a comedian, writer, and director based in Brooklyn, NY.
 
-I co-host and produce the monthly show [Sketch Cage Match](https://www.instagram.com/sketchcagematch/) at UCB.
+# Comedy
+I write and perform sketch and improv comedy with [Queer Window](https://www.instagram.com/queerwindow), [The Slaysians](https://www.instagram.com/theslaysiansnyc), and [ELLIOTT SMECK](https://www.instagram.com/smeckprov/) at NYC venues including the Upright Citizen's Brigade, Caveat, Littlefield, Brooklyn Comedy Collective, and the Lincoln Center one time. Previously, I was on Magnet Theater house sketch teams [Milwaukee!](https://www.youtube.com/@milwaukeesketchcomedy) and [Party Trick](https://www.youtube.com/@PartyTrickSketchComedy). I've performed at San Francisco Sketchfest, DC Sketchfest, Philly Sketchfest, Del Close Marathon, and Fun and Dumb Improv Festival.
+
+I co-host and produce the monthly competition show [Sketch Cage Match](https://www.instagram.com/sketchcagematch/) at UCB NY.
 
 I created [E•MO•TION: The 10th Anniversary Comedy Variety Show](https://www.brooklyncc.com/show-schedule/emotion-10-16) and [A Sketch Show... Or Else](https://www.brooklyncc.com/show-schedule/sketchshoworelse-8-1) (with Jacob Stone).
 
-## Film and Video
+# Film and Video
 My latest comedy video, ["The Citizen Sociologist"](https://www.youtube.com/watch?v=sT8T4O4MBEI), was part of the 7th [Tootsie's Video Vault](https://tootsiesvideovault.com/).
 
-Other projects include: making digital sketches with [sad sacks](https://www.instagram.com/sad__sacks/) and on my own, co-producing the webseries [Hurry Up & Grieve](https://www.instagram.com/hurryupandgrieve/) (in post-production), and programming for the [Asian American International Film Festival](https://www.aaiff.org).
+Other projects: making digital sketches with [sad sacks](https://www.instagram.com/sad__sacks/) and [on my own](https://www.instagram.com/seyoungjkim/), co-producing the webseries [Hurry Up & Grieve](https://www.instagram.com/hurryupandgrieve/) (in post-production), and programming for the [Asian American International Film Festival](https://www.aaiff.org).
 
-## Writing
+# Writing
 Read my satire and humor writing:
 
 * ["Don't Worry: Bears Are More Afraid of You Than You Are of Dying Alone"](https://www.mcsweeneys.net/articles/dont-worry-bears-are-more-afraid-of-you-than-you-are-of-dying-alone) (_McSweeney's Internet Tendency_)
@@ -27,15 +29,15 @@ Read my satire and humor writing:
 
 Or ask about my pilot scripts!
 
-## Other Stuff
+# Other Stuff
 I used to make a lot of memes and moderated a Facebook meme group.
 
 I play cello. I'm learning guitar.
 
 I have 5+ years of experience as a software engineer.
 
-## Contact
+# Contact
 - Email: seyoungjkim [at] gmail [dot] com
 - Instagram: [@seyoungjkim](https://www.instagram.com/seyoungjkim/)
 
-Chances are if you hit me up to collaborate on something comedy, writing, or film related, I will say yes!
+Hit me up to collaborate on something!
